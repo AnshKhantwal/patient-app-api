@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjjlLJMkL28=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\design\\medcross-patient-api\\Scripts\\HashTool\\HashTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pc\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
