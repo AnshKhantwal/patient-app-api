@@ -183,3 +183,4 @@ C:\Users\Pc\AppData\Local\Temp\claude\c--repos-design\d8f393b1-f79a-4e10-bb36-ca
 C:\Users\Pc\AppData\Local\Temp\claude\c--repos-design\d8f393b1-f79a-4e10-bb36-caaaf47c025b\scratchpad\apibuild\patient-api.runtimeconfig.json
 C:\Users\Pc\AppData\Local\Temp\claude\c--repos-design\d8f393b1-f79a-4e10-bb36-caaaf47c025b\scratchpad\apibuild\patient-api.dll
 C:\Users\Pc\AppData\Local\Temp\claude\c--repos-design\d8f393b1-f79a-4e10-bb36-caaaf47c025b\scratchpad\apibuild\patient-api.pdb
+C:\repos\design\medcross-patient-api\obj\Debug\net10.0\patient-api.sourcelink.json
